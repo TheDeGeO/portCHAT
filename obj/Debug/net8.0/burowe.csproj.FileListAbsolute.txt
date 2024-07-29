@@ -1,0 +1,14 @@
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/bin/Debug/net8.0/burowe
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/bin/Debug/net8.0/burowe.deps.json
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/bin/Debug/net8.0/burowe.runtimeconfig.json
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/bin/Debug/net8.0/burowe.dll
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/bin/Debug/net8.0/burowe.pdb
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.GeneratedMSBuildEditorConfig.editorconfig
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.AssemblyInfoInputs.cache
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.AssemblyInfo.cs
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.csproj.CoreCompileInputs.cache
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.dll
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/refint/burowe.dll
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.pdb
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/burowe.genruntimeconfig.cache
+/home/thedegeo/Documents/PROY/dotTRASH/burowe/obj/Debug/net8.0/ref/burowe.dll

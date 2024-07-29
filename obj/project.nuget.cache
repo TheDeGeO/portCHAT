@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CURPZeSfE97OvwbqSIZz2E1b/XCXXIFV587ckkL6hO/pc1smaSSRwcvrauaYWqqpm4nChcHXE8gUFvPnUYFz7A==",
+  "success": true,
+  "projectFilePath": "/home/thedegeo/Documents/PROY/dotTRASH/burowe/burowe.csproj",
+  "expectedPackageFiles": [
+    "/home/thedegeo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
